@@ -1,4 +1,4 @@
-## These functions intended to deliver the functionalities requested for
+## These functions are my submission for the
 ## Programming Assignment 2, R Programming Johns Hopkins Coursera course
 ## For a matrix x, cacheSolve(makeCacheMatrix(x)) returns the inverse of the matrix as requested
 
