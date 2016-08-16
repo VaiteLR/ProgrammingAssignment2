@@ -1,3 +1,7 @@
+Hi and thanks for grading my submission! 
+
+Assignment instructions included below.
+
 ### Introduction
 
 This second programming assignment will require you to write an R
