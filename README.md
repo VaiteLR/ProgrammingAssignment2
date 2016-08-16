@@ -1,6 +1,7 @@
 Hi and thanks for grading my submission! 
 
-Assignment instructions included below.
+*Assignment instructions reproduced below.*
+
 
 ### Introduction
 
